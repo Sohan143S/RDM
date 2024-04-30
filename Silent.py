@@ -15,13 +15,13 @@ def Run():
         if bit == '64bit':
             S1("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🔥💥")
             S1('\x1b[1;94m[●] Follow My Page 👻')
-            os.system('xdg-open https://www.facebook.com/matal.tools')
+            os.system('xdg-open https://www.facebook.com/Its.Sohan.143')
             from sex_sn import welcome
             welcome()
         elif bit == '32bit':
             S1("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 💥🔥")
             S1('\x1b[1;94m[●] Follow My Page 👻')
-            os.system('xdg-open https://www.facebook.com/Sohan.143s')
+            os.system('xdg-open https://www.facebook.com/Its.Sohan.143')
             from sex_sn import welcome
             welcome()
         else:
